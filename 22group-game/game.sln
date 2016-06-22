@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "game", "game.vcxproj", "{DDD280D7-4B85-4B03-BBC4-C46CA9BECCCB}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "gameSetup.vdproj", "{984E2E2A-0DB0-4F9D-9E5C-A3C536609A39}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "mygame", "mygame\mygame.vdproj", "{0DBA6F22-5686-48D7-911D-68859D6E7120}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Turtle Game 1.0", "Turtle Game 1.0\Turtle Game 1.0.vdproj", "{D78F2971-06E8-4BEB-B1AF-3079C5A53364}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDD280D7-4B85-4B03-BBC4-C46CA9BECCCB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DDD280D7-4B85-4B03-BBC4-C46CA9BECCCB}.Debug|Win32.Build.0 = Debug|Win32
+		{DDD280D7-4B85-4B03-BBC4-C46CA9BECCCB}.Release|Win32.ActiveCfg = Release|Win32
+		{DDD280D7-4B85-4B03-BBC4-C46CA9BECCCB}.Release|Win32.Build.0 = Release|Win32
+		{984E2E2A-0DB0-4F9D-9E5C-A3C536609A39}.Debug|Win32.ActiveCfg = Debug
+		{984E2E2A-0DB0-4F9D-9E5C-A3C536609A39}.Release|Win32.ActiveCfg = Release
+		{984E2E2A-0DB0-4F9D-9E5C-A3C536609A39}.Release|Win32.Build.0 = Release
+		{0DBA6F22-5686-48D7-911D-68859D6E7120}.Debug|Win32.ActiveCfg = Debug
+		{0DBA6F22-5686-48D7-911D-68859D6E7120}.Release|Win32.ActiveCfg = Release
+		{D78F2971-06E8-4BEB-B1AF-3079C5A53364}.Debug|Win32.ActiveCfg = Debug
+		{D78F2971-06E8-4BEB-B1AF-3079C5A53364}.Release|Win32.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
